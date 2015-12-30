@@ -1,3 +1,33 @@
-From a very young age I was creative. My time was mostly occupied by drawing. I would create my own characters and eventually compose entire comic books revolving around them. I would use whatever tools I could find to staple together one of a kind copies of my books. As my interests in the area evolved, I had to learn to use new tools. Technology was my greatest aid. It was intruiging and fun. Previously, if I wanted access to new colors or mediums, I had to buy new art supplies. With a computer I had access to every color. I could simulate every medium.
+From a very young age I was creative. My time was mostly occupied by drawing. I 
+would create my own characters and eventually compose entire comic books revolving 
+around them. I would use whatever tools I could find to staple together one of a
+ kind copies of my books. As my interests in the area evolved, I had to learn to 
+ use new tools. Technology was my greatest aid. It was intruiging and fun. 
+ Previously, if I wanted access to new colors or mediums, I had to buy new art supplies. 
+ With a computer I had access to every color. I could simulate every medium.
 
-This progression towards technology along with my curiosity eventually lead me towards a variety of technical fields. First I made the logical progression towards computer animation. Then I wanted to make my projects interactive and unique for each user, so I incorperated programming to make games using my animations.  As I aged, I moved closer towards the technical aspects of computers. I drew less and I rarley made any comic books. I became focused on programming. Periodically I would remember my times as a "young artist" and ask myself how I had arrived at this point. Had I lost interest in creativity? Was my change just a normal result of maturity? Or had I arrived at a pardoxical state? A paradox that wasn't impossible but rather fundemntal to my character and to my existance. I realized I was still creative, I had just began using a different approach towards creation; a new set of tools. Solving problems and creating programs requires creativity. There is no amount of knowledge of programming syntax, keywords, or hardware that will take the place of creativity. Similarly, no amount of knowledge about a brush or a set of markers makes an artist excellent. An excellent artist uses his tools in a unique way to create a cohesive whole with meaning. An excellent programmer does the same but uses a language or framework to acheive a similar goal. Solving problems requires creative approaches. Just like 
+This progression towards technology along with my curiosity eventually lead me towards 
+a variety of technical fields. First I made the logical progression towards computer animation. 
+Then I wanted to make my projects interactive and unique for each user, 
+so I incorperated programming to make games using my animations.  As I aged, 
+I moved closer towards the technical aspects of computers. I drew less and I rarely 
+made any comic books. I became focused on programming. Periodically I would remember 
+my times as a "young artist" and ask myself how I had arrived at this point. Had I 
+lost interest in creativity? Was my change just a normal result of maturity? Or had 
+I arrived at a pardoxical state? A paradox that wasn't impossible but rather fundemntal 
+to my character and to my existance. I realized I was still creative, I had just began 
+using a different approach towards creation; a new set of tools. Solving problems and 
+creating programs requires creativity. There is no amount of knowledge of programming syntax, keywords, or hardware that will take the place of creativity. Similarly, no amount of 
+knowledge about a brush or a set of markers makes an artist excellent. 
+An excellent artist uses his tools in a unique way to create a cohesive whole with meaning. 
+An excellent programmer does the same but uses a language or framework to acheive a similar goal. Solving problems requires creative approaches. I find it most stimulating when 
+I can use my creativity to solve a problem. When I can employ logic in a creative way. 
+When I can break free of traditional approaches and find new and efficent solutions. 
+I embrace this duality of logic and creativity. It turns out that this "paradox" 
+describes a much more complex relationship of interdependancy and entaglement. 
+I use binary technology to solve problems using an approach that lies outside of a binary. 
+
+Even this essay exists within this paradox of technology and creativity. 
+I wrote it in a text editor meant for programming and saved it using a version 
+control system for software development. I used technology to approach a problem, 
+the essay question, creativley. 
