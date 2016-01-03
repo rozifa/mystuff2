@@ -122,19 +122,3 @@ if not state:
 # can I do this on one line?
 city = hashmap.get(cities, 'TX', 'Does Not Exist')
 print "The city for the state 'TX' is: %s" % city
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
