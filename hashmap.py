@@ -16,7 +16,7 @@ def get_bucket(aMap, key):
 
 def get_slot(aMap, key, default=None):
 	"""
-	Returns the indes, key, and value of a slot found in a bucket.
+	Returns the index, key, and value of a slot found in a bucket.
 	Returns -1, key, and default (None if not set) when not found.
 	"""
 	bucket = get_bucket(aMap, key)
