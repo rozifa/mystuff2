@@ -18,6 +18,9 @@ class Animals(object):
 	def get_species(self):
 		return self.species
 
+	def get_nickname(self):
+		return self.
+
 # Create the animals (objects)
 
 mrmeow = Animals('Mr.Meow', 'Cat', 'Short-hair', 'He is ok')
